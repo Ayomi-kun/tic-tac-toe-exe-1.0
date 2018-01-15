@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\bin\Debug\tic-tac-toe GUI 1.0.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic-tac-toe GUI 1.0.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic_tac_toe_GUI_1._0.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic-tac-toe GUI 1.0.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\bin\Debug\tic-tac-toe GUI 1.0.exe
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\bin\Debug\tic-tac-toe GUI 1.0.pdb
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic-tac-toe GUI 1.0.exe
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic-tac-toe GUI 1.0.pdb
+c:\users\asus\documents\visual studio 2013\Projects\tic-tac-toe GUI 1.0\tic-tac-toe GUI 1.0\obj\Debug\tic_tac_toe_GUI_1._0.Form1.resources
